@@ -1,5 +1,5 @@
 # Vislice
 
-Jurij Vega
+Borut Pahor
 Matija Pretnar
 Andrej Bauer
