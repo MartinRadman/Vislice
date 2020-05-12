@@ -1,5 +1,3 @@
 # Vislice
 
-Janez Janša
-Matija Pretnar
-Andrej Bauer
+Über h4x0r igra vislic.
